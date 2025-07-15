@@ -147,3 +147,12 @@ h2::after {
 .airtable-embed {
   margin-top: 50px;
 }
+
+.luma-checkout--button:visited {
+  color: white;
+}
+
+.logo {
+  width: 250px;
+  margin-top: 40px;
+}
