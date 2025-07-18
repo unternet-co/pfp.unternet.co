@@ -158,6 +158,10 @@ h2::after {
   margin-top: 40px;
 }
 
+ul.talks {
+  margin-bottom: 40px;
+}
+
 @media only screen and (max-width: 480px) {
   h1 {
     letter-spacing: -4px;
