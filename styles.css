@@ -78,6 +78,22 @@ section {
   transform: translateY(-2px) translateX(-2px);
 }
 
+.callout {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 2rem;
+  padding: 2rem;
+  margin-bottom: 1.5rem;
+  max-width: 65ch;
+  color: #36454f;
+  border: 1px solid;
+  border-radius: 5px;
+  border-color: #0dcaf0;
+  background-color: #f3fcfe;
+  position: relative;
+  overflow: hidden;
+}
+
 .button:active {
   background: #9020b0;
   box-shadow: 2px 2px 0px #9020b0;
